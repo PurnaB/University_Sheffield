@@ -7,6 +7,7 @@ Task-1
 Task-2
 
  http://localhost:8080/getall?status=archived
+ 
  or 
 
  http://localhost:8080/getall?status=active
